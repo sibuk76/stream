@@ -3,3 +3,8 @@
 #EXTVLCOPT:http-referrer=https://www.huhu.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.huhu.to/play/674277627/index.m3u8
+
+#EXTINF:-1,Sky Sports PL
+#EXTVLCOPT:http-referrer=https://www.huhu.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://www.huhu.to/play/898862234/index.m3u8
