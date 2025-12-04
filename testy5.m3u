@@ -1,1 +1,8 @@
-https://ava.karmakurama.com/zeko/premium35/mono.css
+#EXTINF:0,RTE 1
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
+#EXTINF:0,RTE 2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
+#EXTINF:0,RTE News
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
+#EXTINF:0,RTE Jr
+https://live.rte.ie/live/a/channel4/channel4.isml/channel4.mpd
