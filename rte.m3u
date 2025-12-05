@@ -1,0 +1,8 @@
+#EXTINF:0,RTE 1
+https://live.rte.ie/live/tc-1/channel1/channel1.isml/channel1.mpd
+#EXTINF:0,RTE 2
+https://live.rte.ie/live/tc-1/channel2/channel2.isml/channel2.mpd
+#EXTINF:0,RTE News
+https://live.rte.ie/live/tc-1/channel3/channel3.isml/manifest.mpd
+#EXTINF:0,RTE Jr
+https://live.rte.ie/live/tc-1/channel4/channel4.isml/channel4.mpd
